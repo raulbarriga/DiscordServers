@@ -1,5 +1,5 @@
 # DiscordServers
-A collection of Discord servers to join, most from YouTubers. 
+A collection of Discord servers to join, most of these are YouTubers. 
 
 * [Zero To Mastery](https://zerotomastery.io/community/developer-community-discord/)
  * Requires you purchase one of his course
@@ -29,3 +29,46 @@ A collection of Discord servers to join, most from YouTubers.
 * [Framer](https://discord.gg/framer)
  * This one's for the Javascript animation library called Framer Motion.
  * It's free in case you ever need help with it.
+
+* [Codú Community](https://discord.gg/ajd9rV2V)
+  * Free and coding related.
+
+* [Cognitive Surge](https://discord.gg/wY4UvsWQ)
+  * Free and coding related.
+
+* [Coding Phase](https://discord.gg/tsn5RZh7)
+  * Free and coding related.
+
+* [Ben Awad](https://discord.gg/WHeGdTyG)
+  * Free and coding related.
+
+* [Academind](https://discord.gg/gxvEWGU)
+  * Free and coding related.
+
+* [Chris Sean](https://discord.gg/zVjFCGVe)
+  * Free and coding related.
+
+* [Kevin Powell](https://discord.gg/dnQmzPrz)
+  * Free and coding related.
+
+* [Yeeted but not forgotten](https://discord.gg/5Nqe6nyV)
+  * Free and coding related.
+
+* [Word Off Keys](https://discord.gg/kABxAwjJ)
+  * Free and coding related.
+
+* [FreeCodeCamp](https://discord.gg/KVUmVXA)
+  * Free and coding related.
+
+* [NextJS JavaScript React](https://discord.gg/3mnPDuus)
+  * Free and coding related.
+  * Small and pretty inactive community.
+
+* [Next.js](https://discord.gg/PhHVZGVP)
+  * Free and official Next.js server.
+
+* [Tailwind CSS](https://discord.gg/xZ36SmFY)
+  * Free and official community for this CSS library.
+
+* [devcord](https://discord.gg/devcord)
+  * Free and coding related.
