@@ -72,3 +72,18 @@ A collection of Discord servers to join, most of these are YouTubers.
 
 * [devcord](https://discord.gg/devcord)
   * Free and coding related.
+
+* [Programming Discussions](https://discord.gg/progdisc)
+  * Free and coding related.
+
+* [Nodeiflux](https://discord.gg/vthYGfKY)
+  * Free and coding related.
+  * Mostly for Node.js.
+
+* [Nodeiflux](https://discord.gg/vthYGfKY)
+  * Free and coding related.
+
+* [Typescript Community](https://discord.gg/typescript)
+  * Free and coding related.
+  * Not sure if it's the official Typescript community.
+  * Also relevant to React, Vue & Angular as well as Node.js with Typescript.
