@@ -87,3 +87,57 @@ A collection of Discord servers to join, most of these are YouTubers.
   * Free and coding related.
   * Not sure if it's the official Typescript community.
   * Also relevant to React, Vue & Angular as well as Node.js with Typescript.
+
+* [SpeakJS](https://discord.gg/vtpZYS4u)
+  * Free and coding related.
+
+* [Reactiflux](https://discord.gg/k45SgHZM)
+  * Free and coding related, particularly with React.js but also for other stuff.
+
+* [Web Dev Community](https://discord.gg/6DpMD4bW)
+  * Free and coding related, but less active and a small community.
+
+* [Mintbean](https://discord.gg/FFwy9Eky)
+  * Free and coding related.
+  * Their official community.
+
+* [DevTips](https://discord.gg/x6JM4s7s)
+  * Free and coding related.
+
+* [TomDoesTech](https://discord.gg/eEq2sQUr)
+  * Free and coding related.
+
+* [Codedamn Community](https://discord.gg/sauAS4JR)
+  * Free and coding related.
+
+* [A Designer Who Codes](https://discord.gg/tk23vKkn)
+  * Free and coding related.
+  * Small server.
+
+* [Productive Wallace](https://discord.gg/2ZspNXfk)
+  * Free and very little to do with coding since the small community is practically non existent in terms of activity.
+
+* [A Designer Who Codes](https://discord.gg/tk23vKkn)
+  * Free and coding related.
+
+* [TechRally](https://discord.gg/n7EvmMWm)
+  * Free and coding related.
+
+* [WebStylePress](https://discord.com/invite/Z4ESZvb)
+  * Free and coding related.
+
+* [Maksim Ivanov](https://discord.gg/D4Gq2GgS)
+  * Free and coding related.
+
+* [PIRATE KING](https://discord.gg/vdGxAurd)
+  * Free and coding related.
+
+* [Torc](https://discord.gg/EjcScvavf9)
+  * Free and coding related.
+  * Monarch Wadia from Mintbean.io is an organizer there.
+
+* [Job Ready Programmer](https://discord.gg/BCSazavy)
+  * Free and coding related.
+
+* [Clever Programmer](https://discord.gg/K559hJx4)
+  * Free and coding related.
