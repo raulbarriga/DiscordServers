@@ -141,3 +141,6 @@ A collection of Discord servers to join, most of these are YouTubers.
 
 * [Clever Programmer](https://discord.gg/K559hJx4)
   * Free and coding related.
+
+* [Dorian's Discord](https://discord.com/invite/XckBsDRQxg)
+  * Free and coding related.
