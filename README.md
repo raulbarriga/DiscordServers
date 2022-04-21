@@ -54,7 +54,7 @@ A collection of Discord servers to join, most of these are YouTubers.
 * [Yeeted but not forgotten](https://discord.gg/5Nqe6nyV)
   * Free and coding related.
 
-* [Word Off Keys](https://discord.gg/kABxAwjJ)
+* [Worn Off Keys](https://discord.gg/kABxAwjJ)
   * Free and coding related.
 
 * [FreeCodeCamp](https://discord.gg/KVUmVXA)
@@ -143,4 +143,9 @@ A collection of Discord servers to join, most of these are YouTubers.
   * Free and coding related.
 
 * [Dorian's Discord](https://discord.com/invite/XckBsDRQxg)
+  * Free and coding related.
+
+* [NeetCode](https://discord.gg/2JD8MrmZ)
+  * Free and coding related.
+* [AmigosCode](https://discord.gg/jUXwqSdu)
   * Free and coding related.
